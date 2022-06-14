@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+    text-align: center;
+}
+body h2{
+    font-size: 7vmax;
+}
+body p{
+    font-size: 2.7vmax;
+    font-style: italic;
+}
+.cool{
+    text-align: center;
+    width: 100%;
+    height: 26vmax;
+    background-image: url(../img/slider03.jpg);
+    background-size: cover;
+    margin-top: 5%;
+    b
+}
+.cool a{
+    margin-top: 15px;
+    color: white;
+    margin-right: 3vmax;
+    font-size: 2vmax;
+    text-decoration: none;
+}
+.cool a:hover{
+    color: yellowgreen;
+
+}
+.fa-solid{
+    color: aqua;
+}
